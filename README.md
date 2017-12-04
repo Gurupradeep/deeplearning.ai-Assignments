@@ -22,6 +22,8 @@ This specialisation has five courses.
   4. [Week 4 - Programming Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
 
 
+
+
 - **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 - **Learning Objectives** :
    1. Understand industry best-practices for building deep learning applications. 
@@ -36,6 +38,16 @@ This specialisation has five courses.
   - [Week 1 - Programming Assignment 3 - Gradient Checking](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Gradient%2BChecking%2Bv1.ipynb)
   - [Week 2 - Programming Assignment 4 - Optimization Methods](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week2/Optimization%2Bmethods.ipynb)
   - [Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week3/Tensorflow%2BTutorial.ipynb)
+  
+- **Course 3: Structuring Machine Learning Projects**
+- **Learning Objectives** :
+   1. Understand how to diagnose errors in a machine learning system, and 
+   2. Be able to prioritize the most promising directions for reducing error  
+   3. Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
+   4. Know how to apply end-to-end learning, transfer learning, and multi-task learning
+   
+- **This course doesn't have any programming assignments**
+
   
 
   
