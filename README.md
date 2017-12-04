@@ -64,5 +64,15 @@ This specialisation has five courses.
   7. [Week 4 - Programming Assignment 7 - Art Generation with Neural Style transfer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
   
   
-
+ ## IMPORTANT PAPERS
+ 
+ 1. [AlexNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/AlexNet.pdf)
+ 2. [VGG](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/VGG.pdf)
+ 3. [Inception](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/Inception.pdf)
+ 4. [ResNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/ResNet.pdf)
+ 5. [YOLO](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/YOLO.pdf)
+ 6. [YOLO9000](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/YOLO9000.pdf)
+ 7. [DeepFace](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/DeepFace.pdf)
+ 8. [FaceNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/FaceNet.pdf)
+ 9. [Neural Style Transfer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/Neural_style_transfer.pdf)
   
