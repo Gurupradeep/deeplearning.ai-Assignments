@@ -34,10 +34,10 @@ This specialisation has five courses.
    
 - **Programming Assignments**
   1. [Week 1 - Programming Assignment 1 - Initialization](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb)
-  - [Week 1 - Programming Assignment 2 - Regularization](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Regularization.ipynb)
-  - [Week 1 - Programming Assignment 3 - Gradient Checking](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Gradient%2BChecking%2Bv1.ipynb)
-  - [Week 2 - Programming Assignment 4 - Optimization Methods](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week2/Optimization%2Bmethods.ipynb)
-  - [Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week3/Tensorflow%2BTutorial.ipynb)
+  2. [Week 1 - Programming Assignment 2 - Regularization](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Regularization.ipynb)
+  3. [Week 1 - Programming Assignment 3 - Gradient Checking](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Gradient%2BChecking%2Bv1.ipynb)
+  4 [Week 2 - Programming Assignment 4 - Optimization Methods](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week2/Optimization%2Bmethods.ipynb)
+  5. [Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week3/Tensorflow%2BTutorial.ipynb)
   
 - **Course 3: Structuring Machine Learning Projects**
 - **Learning Objectives** :
@@ -48,6 +48,21 @@ This specialisation has five courses.
    
 - **This course doesn't have any programming assignments**
 
+- **Course 4: Convolutional Neural Networks**
+- **Learning Objectives** :
+   1. Understand how to build a convolutional neural network, including recent variations such as residual networks.
+   2. Know how to apply convolutional networks to visual detection and recognition tasks.
+   3. Know to use neural style transfer to generate art.
+   4. Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+- **Programming Assignments**
+  1. [Week 1 - Programming Assignment 1 - Convolution model Step by Step](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+  2. [Week 1 - Programming Assignment 2 - Convolution model Application](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+  3. [Week 2 - Programming Assignment 3 - Keras Tutorial Happy House](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+  4. [Week 2 - Programming Assignment 4 - Residual Networks](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week2/Residual%2BNetworks%2B-%2Bv2.ipynb)
+  5. [Week 3 - Programming Assignment 5 - Autonomous driving application - Car Detection](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv1.ipynb)
+  6. [Week 4 - Programming Assignment 6 - Face Recognition for Happy House](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+  7. [Week 4 - Programming Assignment 7 - Art Generation with Neural Style transfer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+  
   
 
   
