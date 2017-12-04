@@ -62,8 +62,9 @@ This specialisation has five courses.
   5. [Week 3 - Programming Assignment 5 - Autonomous driving application - Car Detection](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv1.ipynb)
   6. [Week 4 - Programming Assignment 6 - Face Recognition for Happy House](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
   7. [Week 4 - Programming Assignment 7 - Art Generation with Neural Style transfer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
-  
-  
+ 
+- **Course 5: Sequence Models**
+- **TO BE ADDED**
  ## IMPORTANT PAPERS
  
  1. [AlexNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/AlexNet.pdf)
