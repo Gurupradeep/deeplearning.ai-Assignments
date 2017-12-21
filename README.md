@@ -36,7 +36,7 @@ This specialisation has five courses.
   1. [Week 1 - Programming Assignment 1 - Initialization](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Initialization.ipynb)
   2. [Week 1 - Programming Assignment 2 - Regularization](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Regularization.ipynb)
   3. [Week 1 - Programming Assignment 3 - Gradient Checking](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week1/Gradient%2BChecking%2Bv1.ipynb)
-  4 [Week 2 - Programming Assignment 4 - Optimization Methods](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week2/Optimization%2Bmethods.ipynb)
+  4. [Week 2 - Programming Assignment 4 - Optimization Methods](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week2/Optimization%2Bmethods.ipynb)
   5. [Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Improving%20Deep%20Neural%20Networks/Week3/Tensorflow%2BTutorial.ipynb)
   
 - **Course 3: Structuring Machine Learning Projects**
