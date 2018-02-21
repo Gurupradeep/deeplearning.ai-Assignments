@@ -64,7 +64,19 @@ This specialisation has five courses.
   7. [Week 4 - Programming Assignment 7 - Art Generation with Neural Style transfer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Convolutional_Neural_Networks/Week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
  
 - **Course 5: Sequence Models**
-- **TO BE ADDED**
+- **Learning Objectives** :
+   1. Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
+   2. Be able to apply sequence models to natural language problems, including text synthesis. 
+   3. Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+- **Programming Assignments**
+   1. [Week1 - Programming Assignment 1 - Building a Recurrent Neural Network](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week1/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+   2. [Week1 - Programming Assignment 2 - Character level Dinosaur Name generation](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week1/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+   3. [Week1 - Programming Assignment 3 - Music Generation](https://github.com/Gurupradeep/deeplearning.ai-Assignments/tree/master/Sequence%20Models/Week1/Music%20Generation)
+   4. [Week2 - Programming Assignment 1 - Operations on Word vectors](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week2/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+   5. [Week2 - Programming Assignment 2 - Emojify](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week2/Emojify%2B-%2Bv2.ipynb)
+   6. [Week3 - Programming Assignment 1 - Neural Machine translation with attention](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week3/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv3.ipynb)
+   7. [Week3 - Programming Assignment 2 - Trigger word detection](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Sequence%20Models/Week3/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
+   
  ## IMPORTANT PAPERS
  
  1. [AlexNet](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Papers/AlexNet.pdf)
